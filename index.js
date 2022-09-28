@@ -82,4 +82,4 @@ client.on("interactionCreate", async i => {
 
 
 
-client.login(process.env.token)//حط توكن البوت فالقفل
+client.login("MTAyMjA3MzI2OTE5NDU4ODE5MQ.GHQJDM.JZ_MDmcxOrYTwGKUy1v8fB-ZY6RYAnG6J9rz-A")//حط توكن البوت فالقفل
